@@ -2,7 +2,7 @@
 
 student number : 22112024 
 
-name : Hwangc Cheal-jin
+name : Hwangc Chealjin
 
 link
-- email : 5287246@naver.com
+- email : 5287246@gmail.com
