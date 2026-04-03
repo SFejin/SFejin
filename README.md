@@ -1,6 +1,7 @@
 ## Hello
 
-Hello. My name is Hwang Cheal-jin, and I am a student at Yeungnam University. Although I am still inexperienced, the programming languages ​​I can use include C, C++, and Java.
+Hello, my name is Hwang Cheal-jin, and I am a student at Yeungnam University.
+Although I am still gaining experience, I am familiar with programming languages such as C, C++, and Java.
 
 student number : 22112024 
 
